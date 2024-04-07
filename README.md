@@ -5,7 +5,7 @@
 
 Manage favorites and download torrents directly from the e-hentai and exhentai gallery pages
 
-## 相比原版額外修改的地方
+## 相比於原作者版本
 - 種子區塊顯示更多資料提供使用者選擇依據
 
 ## 安装
