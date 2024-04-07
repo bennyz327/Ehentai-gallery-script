@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         Ehentai画廊收藏助手
-// @namespace    https://github.com/cpuopt/Ehentai-gallery-script
+// @name         Ehentai画廊收藏助手 (BennyChou 自用修改版)
+// @namespace    https://github.com/bennyz327/Ehentai-gallery-script
 // @version      1.0.7
-// @description  e-hentai和exhentai画廊页面直接管理收藏和种子下载
-// @author       cpufan
+// @description  Ehentai画廊收藏助手的修改版，原作者為 cpuopt 倉庫請參考 https://github.com/cpuopt/Ehentai-gallery-script
+// @author       BennyChou
 // @include      https://exhentai.org/g/*/*
 // @include      https://e-hentai.org/g/*/*
-// @homepage     https://github.com/cpuopt/Ehentai-gallery-script
-// @updateURL    https://github.com/cpuopt/Ehentai-gallery-script/raw/main/Ehentai-gallery-script.user.js
-// @downloadURL  https://github.com/cpuopt/Ehentai-gallery-script/raw/main/Ehentai-gallery-script.user.js
+// @homepage     https://github.com/bennyz327/Ehentai-gallery-script
+// @updateURL    https://github.com/bennyz327/Ehentai-gallery-script/raw/main/Ehentai-gallery-script.user.js
+// @downloadURL  https://github.com/bennyz327/Ehentai-gallery-script/raw/main/Ehentai-gallery-script.user.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addStyle
 // @grant        GM_info
