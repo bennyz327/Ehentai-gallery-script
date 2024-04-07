@@ -5,6 +5,9 @@
 
 Manage favorites and download torrents directly from the e-hentai and exhentai gallery pages
 
+## 相比原版額外修改的地方
+- 種子區塊顯示更多資料提供使用者選擇依據
+
 ## 安装
 
 [Github](https://github.com/cpuopt/Ehentai-gallery-script/raw/main/Ehentai-gallery-script.user.js)
