@@ -1,8 +1,10 @@
 # Ehentai-gallery-script
 
-在e-hentai和exhentai画廊页面直接管理收藏和下载种子
+在 e-hentai 和 exhentai 畫廊頁面
+直接管理收藏和選擇種子下載
 
 Manage favorites and download torrents directly from the e-hentai and exhentai gallery pages
+
 ## 安装
 
 [Github](https://github.com/cpuopt/Ehentai-gallery-script/raw/main/Ehentai-gallery-script.user.js)
