@@ -10,10 +10,9 @@ Manage favorites and download torrents directly from the e-hentai and exhentai g
 
 ## 安装
 
-[Github](https://github.com/cpuopt/Ehentai-gallery-script/raw/main/Ehentai-gallery-script.user.js)
+[Github](https://github.com/bennyz327/Ehentai-gallery-script/raw/main/Ehentai-gallery-script.user.js)
 
-[Greasy Fork](https://greasyfork.org/zh-CN/scripts/477169-ehentai%E7%94%BB%E5%BB%8A%E6%94%B6%E8%97%8F%E5%8A%A9%E6%89%8B)
-
+[Greasy Fork](https://greasyfork.org/zh-TW/scripts/491873-ehentai%E7%94%BB%E5%BB%8A%E6%94%B6%E8%97%8F%E5%8A%A9%E6%89%8B-bennychou-%E8%87%AA%E7%94%A8%E4%BF%AE%E6%94%B9%E7%89%88)
 
 ## 使用
 
