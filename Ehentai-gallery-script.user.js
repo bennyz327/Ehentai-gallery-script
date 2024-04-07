@@ -2,7 +2,7 @@
 // @name         Ehentai画廊收藏助手 (BennyChou 自用修改版)
 // @namespace    https://github.com/bennyz327/Ehentai-gallery-script
 // @version      1.0.7
-// @description  Ehentai画廊收藏助手的修改版，原作者為 cpuopt 倉庫請參考 https://github.com/cpuopt/Ehentai-gallery-script
+// @description  Ehentai画廊收藏助手的修改版，詳細資訊請參考倉庫描述 https://github.com/bennyz327/Ehentai-gallery-script 
 // @author       BennyChou
 // @include      https://exhentai.org/g/*/*
 // @include      https://e-hentai.org/g/*/*
