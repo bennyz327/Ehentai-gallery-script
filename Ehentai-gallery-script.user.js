@@ -236,6 +236,9 @@ div#gd6 {
                                 .toString();
                         let download = table[i].querySelector("a").getAttribute("onclick");
                         let download_href = table[i].querySelector("a").getAttribute("href");
+                        let seeds = tds[3].innerText.trim();
+                        let peers = tds[4].innerText.trim();
+                        let seeds_downloads = tds[5].innerText.trim();
 
                         let panel = document.createElement("div");
                         panel.className = "torrent-panel";
@@ -274,6 +277,25 @@ div#gd6 {
                         Euploader.style.width = "25%";
                         Euploader.style.textAlign = "left";
                         tr2.appendChild(Euploader);
+
+                        // row3
+                        let tr3 = document.createElement("tr");
+                        tr3.style.width = "100%";
+                        tab.appendChild(tr3);
+
+                        // element show Seeds & Peers count
+                        let ESeedsAndPeers = document.createElement("td");
+                        ESeedsAndPeers.innerText = seeds + " | " + peers;
+                        ESeedsAndPeers.style.width = "25%";
+                        ESeedsAndPeers.style.textAlign = "left";
+
+                        // element show downloads count
+                        let ESeedDownloads = document.createElement("td");
+                        ESeedDownloads.innerText = seeds_downloads;
+                        ESeedDownloads.style.textAlign = "right";
+
+                        tr2.appendChild(ESeedDownloads);
+                        tr3.appendChild(ESeedsAndPeers);
 
                         let Efilename = document.createElement("p");
                         Efilename.innerText = filename;
